@@ -19,7 +19,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'E-Commerce User Frontend',
+        name: 'E-Commerce',
         description: 'A modern React-based frontend for an e-commerce platform allowing users to browse products, manage cart, place orders and track purchases. Built with Vite, Tailwind CSS, and React Router with backend API integration.',
         tools: ['React', 'Vite', 'Tailwind', 'React Router'],
         code: '',
