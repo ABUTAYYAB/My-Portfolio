@@ -13,6 +13,9 @@ export const metadata = {
   title: "Portfolio of Abu Tayyab - Software Engineer",
   description:
     "Portfolio of Abu Tayyab, a software engineer building scalable web, desktop, and API-driven solutions.",
+  verification: {
+    google: "T6Hx-vyICMETCJJ-nuUe3y9J6U3Z87_5LLZcUFuJ53k",
+  },
   icons: {
     icon: "/favicon.png",
   },
